@@ -3,7 +3,7 @@
 
 ## Overview
 Hymavi is a **hybrid architecture** that integrates **Mamba-based sequence modeling** and **attention mechanisms** in a parallel framework for **3D medical image segmentation**
-![Hymavi Architecture](assets/overview.png)
+![Hymavi Architecture](overview_hymavi.png)
 
 <!-- ## Features
 - **Parallel Hybrid Mamba-Attention (HYMA) Block** for efficient spatial and contextual modeling.
